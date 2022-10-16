@@ -1,0 +1,35 @@
+input[type="text"] {
+  padding: 10px 30px;
+  border: #343536 2px solid;
+  border-color: rgb(133, 126, 115);
+  border-radius: 8px;
+  background-color: #3b3b3b;
+  font-size: 30px;
+  outline: none;
+}
+
+.search {
+  padding: 10px 30px;
+  margin-left: 30px;
+  border: rgb(180, 50, 54) 2px solid;
+  background-color: rgb(180, 50, 54);
+  border-radius: 8px;
+  font-size: 30px;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+}
+
+::placeholder {
+  color: #ccc;
+}
+
+input,
+select,
+textarea {
+  color: #eee;
+}
+
+/* form {
+  padding-bottom: 20px;
+} */
