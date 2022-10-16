@@ -1,3 +1,5 @@
+WooCommerce Rest API & React, example SKU: 4005000880
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
